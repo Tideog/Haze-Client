@@ -1,2 +1,2 @@
 # Haze-Client
-Everything works.
+Menu text is a lil broken.
